@@ -21,7 +21,7 @@
 Each problem on Project Euler is assigned a percentage which aims to convey the problem difficulty. The complete list is given below.
 
 | # | Difficulty |
-| ------ | ------ |
+| :---: | :---: |
 | 1 | 100 % |
 | 2 | 95 % |
 | 3 | 90 % |
@@ -52,8 +52,8 @@ The GitHub repository with all problem solutions has been made private. Proof in
 
 ## Interesting problem solutions
 | # | Problem | Difficulty | Reason |
-| ------ | ------ | ------ | ------ |
-| 1 | ? | **? %** | ? |
+| :---: | --- | :---: | --- |
+| 1 | ? | ? % | ? |
 
 <a name="problem-list"/>
 
@@ -64,7 +64,7 @@ The GitHub repository with all problem solutions has been made private. Proof in
 ### 5 %
 
 | # | Problem |
-| ------ | ------ |
+| :---: | --- |
 | 1 | [10001st prime](https://projecteuler.net/problem=7) |
 | 2 | [Even Fibonacci numbers](https://projecteuler.net/problem=2) |
 | 3 | [Largest palindrome product](https://projecteuler.net/problem=4) |
